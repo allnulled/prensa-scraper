@@ -1,0 +1,17 @@
+{
+  "name": "prensa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/prensa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "puppeteer": "^21.5.1",
+    "scrapero": "^1.0.0"
+  }
+}
